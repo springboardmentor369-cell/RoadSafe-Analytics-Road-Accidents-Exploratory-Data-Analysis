@@ -1,0 +1,18 @@
+In this week i learned 
+23/03/2026
+DAX:
+it stands for Data Analysis Expression
+it is a formula language used in power bi and it is used to calculations on data and create measures ,analyze data dynamically for better insights
+it is similar to excel calculaions
+                  SQL calculations
+the main purpose of dax is:
+1.create calculations
+2.analyze data
+3.create new columns and measures
+4.build KPI Metrix
+DAX is mainly used in:
+measures,calculated columns,caculated tables
+25/03/2026
+How to create Dashboards based on dataset
+     to visualize the data by using visualization panel 
+

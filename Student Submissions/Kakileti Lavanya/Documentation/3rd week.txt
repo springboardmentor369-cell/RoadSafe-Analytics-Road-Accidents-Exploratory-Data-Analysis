@@ -1,0 +1,14 @@
+in this week i learned 
+2/03/2026
+   git hub account creation
+  and i created git hub folders  related to our project
+5/03/2026
+   i learned data cleaning more datailed
+   1.view panel --in this panel i learned about
+                 we took dataset and show the operations of data cleaning 
+6/03/2026
+ review about data cleaning 
+       in that review i shown my cleaned dataset
+        
+
+

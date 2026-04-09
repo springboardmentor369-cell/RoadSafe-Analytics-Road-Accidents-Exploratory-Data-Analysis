@@ -1,0 +1,33 @@
+in this week i learned
+16/03/2026
+continue the review whoever left
+17/03/2026
+learned more detailed about how to frame questions based on datasets
+18/03/2026
+learned data modeling
+Data Modeling:
+    it is a process of  connecting,structuring,and defining relationships between data sources.
+it has fact table and dimension table
+Fact Table:
+    fact table stores/contains key information
+Dimension Table:
+    dimension table contains/stores detailed information about fact table
+they work together in a stat schema,where a fact table connects to multiple dimension tables.
+Cardinality of Star Schema:
+   in the star schema ,cardinality primary refers to 4 relation ships
+   one can be represented by '1',and many can be represented by '*'
+   1.one(1)-one(1)
+   2.one(1)-many(*)
+   3.many(*)-one(1)
+   4.many(*)-many(*)
+API:
+  Application Program Interface
+     which is used to enable the communication between the database and client
+     it has set of standards
+we upload excel file to powerbi...
+In our local desktop,we modify our excel file ,it cannot directly updated the modified file ..
+by using API's it possible
+we can connect database to powerbi  by using api it can directly updated the modified file because of live data connection 
+live data connection is nothing but ,we connect by using api from database to powerbi
+20/03/2026
+reviewed about the entire week(what we learned)

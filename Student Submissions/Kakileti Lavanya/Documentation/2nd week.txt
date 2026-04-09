@@ -1,0 +1,23 @@
+In this week i learned 
+25/02/2026
+data transformation
+power Query:
+    in this we can import data by using excel option or get data option
+    after importing it shown 2 options like 
+    1.Load:no changes we can directly import the file
+    2.Transform:it is a special tool ,mostly used to data cleaning 
+Data Cleaning:  if data have any null values,unwanted data,inconsistency,duplicate values,by using  power Query desktop we can clean the data.
+                and learned how to remove duplicate values,unnecessary columns,null values ,remove spacing ....
+i learned how to clean the data by using some operations in navigation bar
+25/02/2026
+data can be 3 forms that is
+   1.structured form
+   2.unstructured form
+   3.semi structured form
+Data Analysis:
+  Extracting the data
+  Transforming data
+  loading/visualizing the data
+27/02/2026
+    i learned to split the 1 column in 2 or more columns
+    space differentiating the somthing into 2 halfs or 3 halfs

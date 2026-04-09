@@ -1,0 +1,28 @@
+18/02/2026
+In this week i learned about
+data analysis:
+    It is the process of  collecting,cleaning,transforming and exploring the data .
+data visualization:
+   it is used to visualizing the data in the form of  bars,charts,graphs.
+   30-20% can be data visualization
+data transformation:
+   It is the process of converting raw data from various sources into a clean structured
+   data transforming can be 70-80%
+19/02/2026
+PowerBI:
+   it is a data visualization tool, and i learned powerbi desktop and powerbi interface 
+powerbi desktop:
+    centerpage-canvas
+20/02/2026
+powerbi interface:
+    report view-entire dashboard present
+    table view-the data can be converted rows and columns
+    model view-plays vital role (relation between 3 or more tables)
+    and i learned navigation bar of powerbi
+   and right side 
+   it have ---- data panel-whatever we can created it shows(like tables)
+                visualization tool-visualize the data
+                filters-cleaning,visualization(whatever we performed actions it shows)
+   
+
+    

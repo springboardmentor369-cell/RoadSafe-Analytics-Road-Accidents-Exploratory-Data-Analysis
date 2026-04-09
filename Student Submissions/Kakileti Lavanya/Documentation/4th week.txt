@@ -1,0 +1,16 @@
+in this week i learned
+10/03/2026 & 11/03/2026 
+discussed more about data cleaning 
+12/03/2026
+learned about EDA
+EDA-Exploratory Data Analysis:
+   it is used to analysing and visualizing the data and to summarize their main characteristics,identify patterns.it uses statistical summaries and graphical tools to understand 
+    data structures and guide further analysis.
+it contains mainly 4 parts:
+1.understanding the dataset
+2.handling missing values
+3.handling extreme values
+4.framing questions based on dataset
+learned detailed 
+13/03/2026
+review on EDA framing questions based on dataset
