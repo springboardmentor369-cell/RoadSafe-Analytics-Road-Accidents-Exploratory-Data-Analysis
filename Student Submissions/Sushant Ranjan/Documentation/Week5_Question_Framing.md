@@ -13,11 +13,16 @@ The objective of this week was to frame meaningful analytical questions from the
 
 ## Key Questions
 
-1. What is the total number of accidents and casualties in the dataset?
-2. Which type of vehicles are most frequently involved in accidents?
-3. How does accident severity vary across different regions?
-4. At what time of day do most accidents occur?
-5. What is the trend of accidents over time (monthly or yearly)?
+1. Which locations can be identified as consistent accident hotspots based on historical data, and what underlying factors make these areas more prone to accidents?
+
+2. How does the time taken for emergency services to reach accident victims influence survival rates and the severity of outcomes in road accidents?
+
+3. How do complex road designs such as sharp turns, blind spots, and multi-lane intersections influence accident occurrence and severity?
+
+4. To what extent do mobile phone usage and in-vehicle distractions contribute to road accidents, and how does this compare with traditional causes like speeding?
+
+5. How do accident trends vary over time (daily, monthly, or yearly), and what patterns can be observed from the data?
+
 
 ## Importance of Question Framing
 
