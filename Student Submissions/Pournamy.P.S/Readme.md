@@ -30,8 +30,8 @@ The dataset used is a large-scale road accident dataset containing attributes su
 * [cite_start]**Urban Infrastructure:** Enhance traffic management in **Office and Residential areas** where the highest concentration of accidents occurs[cite: 52, 68, 73].
 * [cite_start]**Friday Peak Management:** Increase patrol presence or traffic control measures on **Fridays** to mitigate the weekly spike in incidents[cite: 2].
 * [cite_start]**Education-Based Outreach:** Tailor road safety education programs for individuals with a **Junior High School** education background, as this group is highly represented in the data[cite: 27, 35].
-**Tools Used**
 
+**Tools Used**
 * Power BI for data visualization, dashboard creation, and analysis
 * Microsoft Excel for data cleaning, preprocessing, and transformation
 
